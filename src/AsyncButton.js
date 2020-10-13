@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 
 export default function AsyncButton(props) {
   function handleClick() {
@@ -8,7 +8,6 @@ export default function AsyncButton(props) {
   return (
     <button type="button" className={props.className} onClick={handleClick}>
       {props.label}
-      {/* {isLoading ? "Loading..." : props.label} */}
     </button>
   );
 }
