@@ -55,7 +55,6 @@ export default function MemberReposModal({ onClose, member }) {
                       </div>
                     );
                   })}
-                  ;
                 </div>
                 <div className="modal-footer"></div>
               </div>
