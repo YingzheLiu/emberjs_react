@@ -1,3 +1,6 @@
+#### [Front-end deploy in Netlify](https://nikki-itp404-assignment6.netlify.app/) 
+#### [JSON Server in HEROKU](https://nikki-emberjs-app-json-server.herokuapp.com/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
